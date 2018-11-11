@@ -1,0 +1,13 @@
+div div p.tagged{
+    color:red;
+}
+div div p span.tagged{
+    color:green;
+}
+div ul li.tagged{
+    border: 1px solid red;
+}
+div .ul-1 li.tagged{
+    color:green;
+    border: 5px solid green;
+}
