@@ -5,3 +5,6 @@
 - you CANNOT modify the markup
 - you must (somehow) target all the HTML elements purely with CSS selectors
 
+
+
+![img](http://fewd.us/FEWDpress/wp-content/uploads/2014/08/Screen-Shot-2014-08-23-at-1.44.48-AM.png)
