@@ -1,0 +1,22 @@
+p {
+    background-color: black;
+    color: white;
+    font-size: 19px;
+    font-style: italic;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ .odd{
+
+  background-color :white;
+  color : black;
+  
+ 
+}
+span{
+    display: block;
+}
+
+
+ 
