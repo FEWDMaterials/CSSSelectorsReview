@@ -1,0 +1,14 @@
+body{
+    text-indent: 20px;
+    background-color: black;
+}
+body p span{
+    display:block;
+    color: white;
+    
+}
+
+.odd span{
+    color:black;
+    background-color: white;
+}

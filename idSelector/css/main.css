@@ -1,0 +1,21 @@
+body{
+    padding-left: 20px;
+    background-color: black;
+    font-family:  Helvetica;
+}
+body span{
+    display: block;
+    color: white;
+    font-style: italic;
+    font-weight: 600;
+}
+#bridge span{
+    color:yellow;
+    font-size: 16px;
+    font-weight: 900;
+}
+.odd span{
+    color:black;
+    background-color: white;
+    font-weight: normal;
+}
